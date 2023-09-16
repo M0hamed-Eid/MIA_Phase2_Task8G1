@@ -38,9 +38,9 @@ HFOV in radians = 1.2566 radians
 We can assume that:
 
 ```jsx
-Image width = 600
-Apparent size of 1st pole = 24
-Apparent size of 2nd pole = 8
+Image width = 600 pixel
+Apparent size of 1st pole = 24 pixel
+Apparent size of 2nd pole = 8 pixel
 ```
 
 So, We can now calculate the angular size:
