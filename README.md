@@ -9,6 +9,9 @@ The classical computer algorithms that WALL-E relied on in the past encountered 
 - Implement a classical algorithm using OpenCV to detect red and blue balls in 20 images.
 - Detection could be a circle or bounding box around the object.
 
+### Result
+[Link to branch result](https://github.com/M0hamed-Eid/MIA_Phase2_Task8G1/tree/Classical_View).
+
 ## Task 8.2 - Visual Depth Estimate
 
 ### About
@@ -17,6 +20,9 @@ WALL-E's depth estimation algorithm, enhanced with EVE's technological expertise
 ### Requirement
 - Write an article about different methods to estimate depth from cameras and obtain a 3D view of the world using various approaches and camera types such as Mono Camera, Stereo Camera, and RGBD Camera. You can use LaTeX, Markdown, or any other software for the article.
 - (BONUS) Implement Block Matching using Python, an algorithm that generates depth maps from stereo images.
+
+### Result
+[Link to branch result](https://github.com/M0hamed-Eid/MIA_Phase2_Task8G1/tree/Depth_Estimate).
 
 ## Task 8.3 - You Only Look Once (YOLO)
 
@@ -27,6 +33,9 @@ WALL-E made a remarkable discovery among ancient debris: a collection of Egyptia
 - Create an object detection model using the YOLOv8 ultralytics framework to detect Egyptian coins. There are three classes: One pound, Half pound, and Quarter pound.
 - Preferably, collect some or all of the data for this project from team members rather than the internet.
 - Document each step in the data collection and training process, and showcase how the team collaborated on this project.
+
+### Result
+[Link to branch result](https://github.com/M0hamed-Eid/MIA_Phase2_Task8G1/tree/Look_Once).
 
 ---
 
