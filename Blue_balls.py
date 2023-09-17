@@ -2,7 +2,7 @@ import cv2 as cv
 import numpy as np
   
 # To read image
-img = cv.imread("/home/micro/Downloads/drive-download-20230914T045833Z-001/b_003.jpg")
+img = cv.imread("D:\\My_GitHub\\balls_dataset")
 #cv.imshow("image",img)
 if ((img.shape[1]>1000 and img.shape[1]<1500) or (img.shape[0]>1000 and img.shape[0]<1500)):
     new_image = cv.resize(img,None,fx=0.75, fy=0.75, interpolation = cv.INTER_AREA)
