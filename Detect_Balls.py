@@ -59,7 +59,7 @@ def detect_balls(image_path):
 
 # Process all images in the directory
 for image_file in os.listdir(image_dir):
-    if image_file.endswith(".jpg") or image_file.endswith(".png"):
+    if image_file.endswith(".jpg"):
         image_path = os.path.join(image_dir, image_file)
         detect_balls(image_path)
 
